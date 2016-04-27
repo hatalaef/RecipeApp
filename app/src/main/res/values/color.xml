@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="topBack">#B280B2</color>
+    <color name="bottomBack">#DBFFFF</color>
+    <color name="theFont">#ffffffff</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_button">Search</string>
+    <string name="prompt">Search by ingredients</string>
+</resources>
